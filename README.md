@@ -75,3 +75,8 @@ It is important to note that the formatter has to be adapted to your custom data
 
 
 ## Datasets
+CML-Multi-Lingual-TTS is a Text-to-Speech (TTS) dataset developed at the Center of Excellence in Artificial Intelligence (CEIA) of the Federal University of Goias (UFG). This dataset is based on Multilingual LibriSpeech (MLS) for training TTS models, consisting of audiobooks in seven languages: Dutch, French, German, Italian, Portuguese, Polish, and Spanish. Their purpose in creating this dataset was to giveway to new research possibilities in the TTS area for multi-lingual models. 
+
+Through these links you can access to the datasets and related information.
+https://www.fredso.com.br/CML-TTS-Dataset/
+https://github.com/freds0/CML-TTS-Dataset
